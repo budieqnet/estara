@@ -1,0 +1,7 @@
+app/
+vendor/
+node_modules/
+.env
+bootstrap/cache/*.php
+storage/framework/*
+.DS_Store
